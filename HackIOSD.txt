@@ -1,0 +1,38 @@
+
+PROBLEM STATEMENT
+Remote learning can be hard at the best of times, this track is about making it easier to be productive at home whilst not feeling so isolated. 
+This could be by finding ways to improve communication or finding unique ways to make it easier for people to complete their education and skill learning while at home. Tools for Educators, Institutions, Examinations monitoring & proctoring. 
+Lack of localization of content due to which students are unable to understand. Lack of standardized Assessment Methods.
+
+IDEA APPROACH DETAILS
+We are creating a website basically, a platform mainly to teach students who are willing to LEARN HOW TO CODE which will be very useful in these "PANDEMIC" situations like being quarantined due to COVID-19. 
+Following are the details:
+- We will teach them how to code from beginner to expert level for FREE. No prerequisite except a willingness is required. 
+- For now, the teaching will be done in four languages ( Java, Python, C++, HTML ) and many more may be updated in the future.
+- We will provide with estimated time all courses to provide with an idea for duration of the same. 
+- Weekly test will be conducted. Users can participate in that and depending on their performance, they'll be provided with badges.
+- A leader board will be maintained which will rank students according to their marks in tests which will clearly show where our user stand globally.
+- To understand our user experience, we will conduct frequent surveys.
+- We will provide the user with assignments to increase their coding skills.
+- We will send reminders about assignments, tests and will send monthly user's performance reports to their registered e-mail id.
+- The website will have a discussion/ chat forum where the user can post their queries and interact with other users to find a way of keeping everyone in contact. 
+- Using Google calendar, we can integrate it with our tests schedule and update them with mails as well.
+- A blog which will update the user about new tech updates.
+
+TECH STACK
+-Java 
+-Python
+-C++
+-HTML 
+-CSS
+-Voice flow
+-JavaScript
+
+SHOWSTOPPER
+-Discussion forum for the user to interact with other users.
+-A blog which will update the user about new technologies available.
+-Using google calendars to integrate it with test and assignments schedule.
+
+FUTURE  ASPECTS
+-More languages will be added once the platform grows.
+-The toppers of the leaderboard will be provided with incentives by giving their referral to leading companies.

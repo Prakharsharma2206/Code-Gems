@@ -1,0 +1,182 @@
+* {
+    margin: 0;
+}
+
+.body{
+    /* background-color: rgba(0, 0, 0, 0); */
+    background-color: black;
+}
+
+.main_page {
+    background-image: url(./img/marius-niveri-rfg4l6_lu3c-unsplash.jpg);
+    display: flex;
+    background-size: cover;
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+    width: 60vw;
+    height: 100vh;
+}
+
+/* .nav{
+    background-color:rgba(41, 39, 39, 0.925) ;
+    opacity:0.8;
+} */
+
+.web-name {
+    font-size: 8vw;
+    font-family: 'Special Elite', cursive;
+    color: white;
+    margin: 10vh 0 0 5vw;
+}
+
+.web-name span {
+    color: rgb(218, 218, 52);
+}
+
+
+.desc {
+    font-size: 3vw;
+    color: white;
+    margin: 8vh 0 0 5vw;
+    font-family: 'Poppins', cursive;
+}
+
+.content {
+    font-size: 1.8vw;
+    position: relative;
+    margin-top: 2vh;
+}
+
+.quote {
+    font-size: 3vw;
+    margin-top: 10vh;
+    font-family: 'Amaranth', cursive;
+}
+
+.login {
+    transform: translateY(11%);
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    background: #480f64;
+    border-radius: 100px;
+    height: 80vh;
+    align-items: center;
+    /*horizontally*/
+    justify-content: space-evenly;
+    /* vertically */
+}
+
+.login-info {
+    font-size: 4vh;
+    color: white;
+    font-family: 'Special Elite', cursive;
+    position: relative;
+    margin-top: -50px;
+}
+
+.signup {
+    display: flex;
+    flex-direction: column;
+    /* height: 10vh; */
+    align-items: center;
+    /*horizontally*/
+    justify-content: space-evenly;
+    /* vertically */
+}
+
+.login-btn {
+    border-radius: 3vw;
+    font-size: 3.7vh;
+    text-align: center;
+    background-color: green;
+    color: black;
+    padding: 3vh;
+    width: 20vw;
+    font-family: 'Amaranth', cursive;
+    cursor: default;
+}
+
+#google {
+    background: linear-gradient(to bottom right, #DC483C, #B63120);
+}
+
+#fb {
+    background: #3B5998;
+}
+
+.icon {
+    position: relative;
+    top: 0.2vh;
+}
+
+.login-btn:hover i {
+    color: rgb(219, 219, 219);
+}
+
+.about {
+    width: 80%;
+    margin: 0 auto;
+    padding: 50px 0 0;
+}
+
+.about h1 {
+    font-size: 35px;
+}
+
+.about p {
+    margin-top: 15px;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0px 20px 0px; 
+    background: #202C37;
+    background-color: #39383b;
+    margin-top: 50px;
+}
+
+
+.footer-div {
+    color: white;
+    font-size: 16px;
+    height: 200px;
+}
+
+.footer-details ul {
+    list-style: none;
+    padding: 20px 0 0;
+    opacity:0.5;
+}
+
+/* .footer-details ul:hover {
+    list-style: none;
+    padding: 20px 0 0;
+    opacity:1.0;
+} */
+
+.footer-details ul li {
+    color: white;
+    
+    opacity:0.5;
+}
+
+.footer-details ul li:hover {
+    color: white;
+    padding: 3px 0;
+    opacity:0.9;
+}
+
+.footer-details ul li a {
+    color: rgb(255, 254, 254);
+    text-decoration: none;
+}
+
